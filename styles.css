@@ -1,0 +1,128 @@
+
+.tablero {
+    max-width: 600px;
+    margin: 0 auto;
+display: grid;
+grid-template-columns: 100px 100px 100px 100px 100px 100px;
+grid-template-rows: 100px 100px 100px 100px 100px;
+grid-gap: 0rem;
+padding: 0px;
+}
+
+.p11 {
+        grid-column:1;
+        grid-row:1;
+        background-image:url(assets/img/p11.jpeg);
+        background-size:100px 100px;
+} 
+    .p12 {
+        grid-column:2;
+        grid-row:1;
+        background-image:url(assets/img/p12.jpeg);
+        background-size:100px 100px;
+
+    } 
+    .p13 {
+        grid-column:3;
+        grid-row:1;
+        background-image:url(assets/img/p13.jpeg);
+        background-size:100px 100px;
+    }
+    .p14 {
+        grid-column:4;
+        grid-row:1;
+       background-image:url(assets/img/p14.jpeg);
+        background-size:100px 100px;
+    }
+    .p15 {
+        grid-column:5;
+        grid-row:1;
+       background-image:url(assets/img/p15.jpeg);
+        background-size:100px 100px;
+    }
+    .p16 {
+        grid-column:6;
+        grid-row:1;
+       background-image:url(assets/img/p16.jpeg);
+        background-size:100px 100px;
+    }
+    .p21 {
+        grid-column:1;
+        grid-row:2;
+       background-image:url(assets/img/p21.jpeg);
+        background-size:100px 100px;
+    }
+    .p31 {
+        grid-column:1;
+        grid-row:3;
+       background-image:url(assets/img/p31.jpeg);
+        background-size:100px 100px;
+    }
+    .p41 {
+        grid-column:1;
+        grid-row:4;
+       background-image:url(assets/img/p41.jpeg);
+        background-size:100px 100px;
+    }
+    .p51 {
+        grid-column:1;
+        grid-row:5;
+       background-image:url(assets/img/p51.jpeg);
+        background-size:100px 100px;
+    }
+    .p26 {
+        grid-column:6;
+        grid-row:2;
+       background-image:url(assets/img/p26.jpeg);
+        background-size:100px 100px;
+    }
+    .p36 {
+        grid-column:6;
+        grid-row:3;
+       background-image:url(assets/img/p36.jpeg);
+        background-size:100px 100px;
+    }
+    .p46 {
+        grid-column:6;
+        grid-row:4;
+       background-image:url(assets/img/p46.jpeg);
+        background-size:100px 100px;
+    }
+    .p52 {
+        grid-column:2;
+        grid-row:5;
+       background-image:url(assets/img/p52.jpeg);
+        background-size:100px 100px;
+    }
+    .p53 {
+        grid-column:3;
+        grid-row:5;
+       background-image:url(assets/img/p53.jpeg);
+        background-size:100px 100px;
+    }
+    .p54 {
+        grid-column:4;
+        grid-row:5;
+       background-image:url(assets/img/p54.jpeg);
+        background-size:100px 100px;
+    }
+    .p55 {
+        grid-column:5;
+        grid-row:5;
+       background-image:url(assets/img/p55.jpeg);
+        background-size:100px 100px;
+    }
+    .p56 {
+        grid-column:6;
+        grid-row:5;
+       background-image:url(assets/img/p56.jpeg);
+        background-size:100px 100px;
+    }
+    .c {
+        grid-column:2/6;
+        grid-row:2/5;
+        background-image:url(https://upload.wikimedia.org/wikipedia/en/9/94/PressYourLuckLogo2019.png);
+        background-size:400px 300px;
+        
+
+    }
